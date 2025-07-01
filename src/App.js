@@ -31,7 +31,7 @@ const filtered= list ? array.filter(item=>
           <p key ={item.id}>{item.Name}</p>
         ))
       } */}
-      <div>hello</div>
+     
 
       <div>{
         filtered.map((item) => (
